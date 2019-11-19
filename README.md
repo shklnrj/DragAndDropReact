@@ -1,2 +1,0 @@
-# DragAndDropReact
-Created with CodeSandbox
